@@ -1,0 +1,11 @@
+Programa        Nombre de Clase              Métodos       LOC Clase       LOC Total
+Programa2       Input                              3              14                
+                DesvEst                            5              27                
+                Logic                              1              46                
+                Data                               4              14                
+                OutPut                             3              11                
+                Class2                             0               0                
+                Media                              4              17                
+                App                                2               7                
+                Class1                             0               0                
+                                                                                 136
